@@ -9,11 +9,11 @@ Untuk menginstall aplikasi ini, ikuti langkah-langkah berikut:
 
 1. Clone repository:
    ```
-   git clone https://github.com/AndhikaFW/llamaindex-docs-chat.git
+   git clone [https://github.com/AndhikaFW/training_dev.git]
    ```
 2. Masuk ke folder:
    ```
-   cd llamaindex-docs-chat
+   cd training_dev
    ```
 
 4. Buat _python virtual environment_:
@@ -33,7 +33,6 @@ Untuk menginstall aplikasi ini, ikuti langkah-langkah berikut:
 4. Dapatkan API key dari OpenAI dan tambahkan API key serta tanda anda ke file `.env` di direktori projek.
    ```commandline
    OPENAI_API_KEY=api_key_rahasia_anda
-   mark="tanda_anda"
    ```
 
 ## Penggunaan
