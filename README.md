@@ -62,7 +62,7 @@ Untuk menggunakan aplikasi ini, ikuti langkah-langkah berikut:
    #Jika tidak maka sesuai dengan yang tertulis di cli misal:
    INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
    #Untuk interface client ada pada /user misal:
-   Uvicorn running on http://127.0.0.1:8000/user
+   http://127.0.0.1:8000/user
    ```
 
 6. Masukkan dokumen ke aplikasi dengan instruksi yang diberikan.
