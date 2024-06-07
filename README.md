@@ -3,6 +3,8 @@ Program  monitoring mompetensi karyawan untuk peningkatan kualitas training dan 
 
 https://drive.google.com/file/d/17SG96u4J8iTCkjaqzMs-0Gya7yh3dB8U/view?usp=drive_link
 
+https://docs.google.com/presentation/d/1wdcbsypsra7P84_NCdPNbuSHynL-E38K/edit?usp=drive_link&ouid=116189016654784612537&rtpof=true&sd=true
+
 Proyek kami berfokus pada peningkatan efisiensi dalam proses pengambilan keputusan dan pengolahan data, yang merupakan sub tema 1 dari hackathon. Kami berencana untuk menciptakan dampak positif pada ekonomi digital dengan mengembangkan solusi yang memungkinkan pemantauan kemampuan dan karakteristik karyawan melalui platform digital. Ini diharapkan dapat meningkatkan efisiensi dalam ekonomi digital. Selain itu, dalam konteks keuangan Indonesia, proyek kami bertujuan untuk menyelesaikan masalah seperti alokasi yang tepat untuk pelatihan dan pengembangan karyawan, serta pengukuran kemampuan karyawan. Dengan demikian, proyek kami berupaya untuk memberikan solusi inovatif untuk meningkatkan efisiensi dan efektivitas dalam pengelolaan sumber daya manusia, yang pada akhirnya dapat berkontribusi pada pertumbuhan dan perkembangan ekonomi digital dan lanskap keuangan di Indonesia.
 
 ## Dependency-Dependency & Instalasi
