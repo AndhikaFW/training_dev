@@ -1,6 +1,10 @@
 # training_dev
 Program  monitoring mompetensi karyawan untuk peningkatan kualitas training dan development
 
+![Screenshot 2024-06-07 at 08-30-52 Training Development](https://github.com/AndhikaFW/training_dev/assets/54433358/6aa18afb-c57e-43d3-b15c-447d918e20a3)
+![Screenshot 2024-06-07 at 08-31-10 Screenshot](https://github.com/AndhikaFW/training_dev/assets/54433358/dcb7ab22-99b3-435f-a25e-3573154ba186)
+
+
 https://drive.google.com/file/d/17SG96u4J8iTCkjaqzMs-0Gya7yh3dB8U/view?usp=drive_link
 
 https://docs.google.com/presentation/d/1wdcbsypsra7P84_NCdPNbuSHynL-E38K/edit?usp=drive_link&ouid=116189016654784612537&rtpof=true&sd=true
