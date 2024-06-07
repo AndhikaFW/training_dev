@@ -65,10 +65,6 @@ Untuk menggunakan aplikasi ini, ikuti langkah-langkah berikut:
    http://127.0.0.1:8000/user
    ```
 
-6. Masukkan dokumen ke aplikasi dengan instruksi yang diberikan.
-
-7. Masukkan pertanyaan secara natural mengenai PDFs dengan chat interface.
-
 
 
 ## Lisensi
